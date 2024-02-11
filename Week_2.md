@@ -4,33 +4,30 @@
 
 1. Attended Seminar
 2. Watched learnJCU pre-recorded videos
+3. Watched the recommended linkedIn learning video
    
-3. Researched webpages regarding Joomla and Docker
+4. Researched webpages regarding Joomla and Docker local hosts
    * https://www.joomla.org/about-joomla/getting-started.html
    * https://www.techrepublic.com/article/how-to-deploy-joomla-docker/
    * https://www.joomla.org/about-joomla/getting-started.html
 
-4. Watched the recommended linkedIn learning video
+5. Researched AWS Lightsail and Joomla 
+   * https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-quick-start-guide-joomla
+   * https://websitesetup.org/build-website-with-joomla/ 
 
-This is a "learning journal" not just a record of all the things you did in the subject. So, if you spent 3 hours fixing an error or designing a site, you don't put that here. But if while fixing the error, you decided to learn more about the issue through training, then that goes in your learning journal.
-
-The "Learning Activities" section is not a general catch-all for things you did, it is only for recording explicit learning activities. Things like doing the prac, solving a problem, making a site... are NOT to go here. Watching a learning course, doing a tutorial, getting expert advice, going to a seminar... are all activities with the explicit purpose of learning; these go here.
 
 ## Estimated Hours
 
-4
-
+8
 
 ## Content Insights
 
-Enter here
+During my research, I discovered that Docker serves as a local host, but there are also online options available for using Joomla without the need for local hosting. Additionally, I found that AWS Lightsail is a hosting platform capable of hosting Joomla content and that there are many online shops offering numerous Joomla templates that can be customized to meet the specific needs and requirements of a website. Exploring and understanding more about CMS like Joomla and Wordpress showed me how popular they actually are and highlighted their practicality for people with limited coding experience.
 
-The first few sections can be brief, but the last two sections require you to reflect, think and write clearly what your insights were. Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks.
-
-Let's be real. Sometimes you don't get any real "insights". Don't make up stuff (lies) to make it look like you've completed the work. Do you think that's what your company will want?
+I researched the example start up links provided in assignment one and learnt that a start up is different from just creating another local business page as start ups are 'an entrepreneurial venture or a new business designed to search for a repeatable and scalable business model'.  
 
 ## Career/Employability/Learning Insights
 
-Learning how to use Markdown was particularly useful this week as it came up in my professional job when creating using booking form software. Having already researched the basics and knowing the best website to look up was incredibly helpful and gave a very satisfying feeling. 
+Learning how to use Markdown proved to be incredibly valuable this week, especially in my professional role when experimenting with booking form software. Having already researched the basics and knowing the best resources for markdown requirements enabled me to complete my tasks efficiently. Additionally, I am currently undertaking training and practical tasks using Squiz Matrix CMS for my independent project (CP3103) within my workplace, allowing me to apply and comprehend CMS principles in a practical setting. Although Squiz Matrix is a paid product and therefore unavailable for this assessment, the skills I am acquiring are transferable to the CMS we are utilising.
 
-Delete this link once complete - https://github.com/CP3402/subject/wiki/Learning-Journals
+Through online resources and trial-and-error methods, I gained a foundational understanding of Joomla, including creating pages, uploading and modifying templates, establishing navigation, and inserting content. This process proved to be more complex than initially anticipated, underscoring the challenges faced by individuals with limited experience in web development.
