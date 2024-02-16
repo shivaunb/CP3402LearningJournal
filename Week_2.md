@@ -3,14 +3,16 @@
 ## Learning Activities & Resources
 
 
-1. Watched the recommended linkedIn learning video
+1. Attended Seminar
+2. Watched Learn JCU videos
+3. Watched the recommended linkedIn learning video
    
-2. Researched webpages regarding Joomla and Docker local hosts
+4. Researched webpages regarding Joomla and Docker local hosts
    * https://www.joomla.org/about-joomla/getting-started.html
    * https://www.techrepublic.com/article/how-to-deploy-joomla-docker/
    * https://www.joomla.org/about-joomla/getting-started.html
 
-3. Researched AWS Lightsail and Joomla 
+5. Researched AWS Lightsail and Joomla 
    * https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-quick-start-guide-joomla
    * https://websitesetup.org/build-website-with-joomla/ 
 
