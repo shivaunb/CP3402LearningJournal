@@ -1,30 +1,42 @@
-# Week **** - Learning Journal CP3402
+# Week 3 - Learning Journal CP3402
 
 ## Learning Activities & Resources
 
-Enter here
+1. Watched Learn JCU video
+2. Watched the following linkedIn learning videos: 
+   * https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction
+   * https://www.linkedin.com/learning/wordpress-workflows-2015
 
-This is a "learning journal" not just a record of all the things you did in the subject. So, if you spent 3 hours fixing an error or designing a site, you don't put that here. But if while fixing the error, you decided to learn more about the issue through training, then that goes in your learning journal.
-
-The "Learning Activities" section is not a general catch-all for things you did, it is only for recording explicit learning activities. Things like doing the prac, solving a problem, making a site... are NOT to go here. Watching a learning course, doing a tutorial, getting expert advice, going to a seminar... are all activities with the explicit purpose of learning; these go here.
+3. Researched Wordpress installation through lightsail
+   * https://docs.aws.amazon.com/en_us/lightsail/latest/userguide/amazon-lightsail-quick-start-guide-wordpress.html
 
 ## Estimated Hours
 
-Enter here
-
-Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time.
-
+7
 
 ## Content Insights
 
-Enter here
-
-The first few sections can be brief, but the last two sections require you to reflect, think and write clearly what your insights were. Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks.
-
-Let's be real. Sometimes you don't get any real "insights". Don't make up stuff (lies) to make it look like you've completed the work. Do you think that's what your company will want?
+** Enter on Wednesday - left exercise book with all notes at work **
 
 ## Career/Employability/Learning Insights
 
-Enter here
+Results of Interview questions:
 
-Delete this link once complete - https://github.com/CP3402/subject/wiki/Learning-Journals
+Dayne:
+Do you like face-to-face group meetings, online or either? Online then face to face - allows flexibility
+Do you like to take initiative with completing tasks or would you prefer to have tasks allocated to you? Allocation - like structure
+What are your top group work expectations? Complete all tasks, nothing left undone and take pride in final task
+
+Aengus:
+Do you like face-to-face meetings, online or either? Prefer face to face
+Do you like to take initiative with completing tasks or would you prefer to have tasks allocated to you? Either - depends on the situation. 
+What are your top group work expectations? "giving a s***" 
+
+Mia:
+Do you like face-to-face meetings, online or either? Face to face is better to get work done quicker but online is more convenient
+Do you like to take initiative with completing tasks or would you prefer to have tasks allocated to you? Don't mind both, fine with taking initiative and finding own tasks
+What are your top group work expectations? Everyone contributes evenly, work gets done on time 
+
+The learnings I gained from the round-robin interviews included realising that everyone has different strengths and expectations when it comes to group work. A common theme that appeared is that despite the technology resources that are available, people still prefer to work face-to-face where possible and use technology as a secondary resource which aligns well with my values as I feel the same way. 
+
+From an employability point of view, I believe having skills in both face-to-face and online communication is valuable to have as it is important with hybrid workplaces which have work from home flexibility - I can see myself working in one in my future IT career. 
