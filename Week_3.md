@@ -16,7 +16,11 @@
 
 ## Content Insights
 
-** Enter on Wednesday - left exercise book with all notes at work **
+This weeks learning gave me insight on the best features to look for when choosing a host service - scalability, security, automatic backup potential and restrictions. 
+
+I also learnt that plug ins are a great way to add features to a website, however when choosing a plug in, to keep in mind that if you are using free ones there is the possiblity that the developer may not maintain or update this and if creating a professional site, using paid plug ins with reliable developers is the best way to go. 
+
+Another helpful insight was that all multimedia should not be uploaded directly into wordpress - it should go through a streaming platform and be embedded into a wordpress block (helpful hint for my assignment).
 
 ## Career/Employability/Learning Insights
 
