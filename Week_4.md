@@ -2,29 +2,29 @@
 
 ## Learning Activities & Resources
 
-Enter here
+1. Watch Learn JCU video
+2. Watched LinkedIn Learning videos:
+   * https://www.linkedin.com/learning/mapping-the-modern-web-design-process/create-great-informational-user-experiences?u=2223545
+   * https://www.linkedin.com/learning/version-control-for-everyone-2/version-control-it-s-not-just-for-programmers?u=2223545
+   * https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro/welcome?u=2223545
 
-This is a "learning journal" not just a record of all the things you did in the subject. So, if you spent 3 hours fixing an error or designing a site, you don't put that here. But if while fixing the error, you decided to learn more about the issue through training, then that goes in your learning journal.
-
-The "Learning Activities" section is not a general catch-all for things you did, it is only for recording explicit learning activities. Things like doing the prac, solving a problem, making a site... are NOT to go here. Watching a learning course, doing a tutorial, getting expert advice, going to a seminar... are all activities with the explicit purpose of learning; these go here.
+3. https://www.usbwebserver.net/webserver/#:~:text=USBWebserver%20is%20a%20combination%20of,USB%20or%20a%20regular%20CD.
 
 ## Estimated Hours
 
-Enter here
-
-Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time.
-
+6
 
 ## Content Insights
 
-Enter here
+I revisited the importance of identifing user needs when it comes to web design and how important it is to take into consideration what the user cares about that this is done by creating user personas. 
 
-The first few sections can be brief, but the last two sections require you to reflect, think and write clearly what your insights were. Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks.
+I learned about the three-track process which consists of content creation and curation, graphic and user experience design, and front and backend development. This allows for a smoother and more agile process and can help in avoiding problems and conflicts. 
 
-Let's be real. Sometimes you don't get any real "insights". Don't make up stuff (lies) to make it look like you've completed the work. Do you think that's what your company will want?
+Retouched on the basic workflow of working with version control and how it can be applied to different fields of computer science/technology. Learnt about branches and the video referred to it as a "separate line of work, or experimentation" and that if a branch is correct it can be merged otherwise it can be disregarded if it is not useful to the overall project. 
 
 ## Career/Employability/Learning Insights
 
-Enter here
+I have only used version control on my own in solo projects and not in a group setting (yet). I learnt about how repositories work when hosted on servers and shared amongst a group working on the same task. I also learnt that branching is a convenient habit to get into when doing group work as this won't affect the final product and can be merged if all members are in agreeance. 
 
-Delete this link once complete - https://github.com/CP3402/subject/wiki/Learning-Journals
+I think that learning version control is important skill to be able to master and take into real world employment opportunites. I think that in all fields of IT, version control is integrated in one way or another and being competent in this will not only improve my resume, but will also allow me to be a proactive team member. 
+
