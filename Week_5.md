@@ -2,29 +2,23 @@
 
 ## Learning Activities & Resources
 
-Enter here
+1. Watched LearnJCU video
+2. Watched LinkedIn Learning Videos
+   * https://www.linkedin.com/learning/wordpress-building-child-themes-3/level-up-to-wordpress-developer?u=2223545
+   * https://www.linkedin.com/learning/learning-responsive-web-design-in-the-browser/welcome?u=2223545
 
-This is a "learning journal" not just a record of all the things you did in the subject. So, if you spent 3 hours fixing an error or designing a site, you don't put that here. But if while fixing the error, you decided to learn more about the issue through training, then that goes in your learning journal.
+3. https://www.cloudways.com/blog/create-child-theme-wordpress/
 
-The "Learning Activities" section is not a general catch-all for things you did, it is only for recording explicit learning activities. Things like doing the prac, solving a problem, making a site... are NOT to go here. Watching a learning course, doing a tutorial, getting expert advice, going to a seminar... are all activities with the explicit purpose of learning; these go here.
 
 ## Estimated Hours
 
-Enter here
-
-Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time.
-
+4
 
 ## Content Insights
 
-Enter here
+That a child theme is designed to modify an already existing theme (the parent theme). I learned that Wordpress will firstly load up a parent theme before loading the child theme so any modifications only show in the child theme and are not across both. I learned that it is a combination of a css style sheet and a function php document that come together to create and apply the child theme that has been specifically created.  
 
-The first few sections can be brief, but the last two sections require you to reflect, think and write clearly what your insights were. Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks.
-
-Let's be real. Sometimes you don't get any real "insights". Don't make up stuff (lies) to make it look like you've completed the work. Do you think that's what your company will want?
 
 ## Career/Employability/Learning Insights
 
-Enter here
-
-Delete this link once complete - https://github.com/CP3402/subject/wiki/Learning-Journals
+This weeks learning about child themes was interesting when getting to learn how they worked, however as I don't intend to follow a path in web design I don't think I will be using this in the future. That aside, learning how to make sure that the codes and documents work together appropriately, and the problem solving skills required to do that are both key skills that I can take with me from this week and into my professional life. 
