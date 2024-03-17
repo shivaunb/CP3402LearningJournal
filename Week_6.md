@@ -2,29 +2,26 @@
 
 ## Learning Activities & Resources
 
-Enter here
+1. Watched LearnJCU video
+2. Watched LinkedIn Learning Videos
+   * https://www.linkedin.com/learning/agile-at-work-driving-productive-agile-meetings/having-daily-stand-up-meetings-2?u=2223545
 
-This is a "learning journal" not just a record of all the things you did in the subject. So, if you spent 3 hours fixing an error or designing a site, you don't put that here. But if while fixing the error, you decided to learn more about the issue through training, then that goes in your learning journal.
+3. https://www.atlassian.com/agile/scrum/standups
+4. https://asana.com/resources/stand-up-meeting
 
-The "Learning Activities" section is not a general catch-all for things you did, it is only for recording explicit learning activities. Things like doing the prac, solving a problem, making a site... are NOT to go here. Watching a learning course, doing a tutorial, getting expert advice, going to a seminar... are all activities with the explicit purpose of learning; these go here.
 
 ## Estimated Hours
 
-Enter here
-
-Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time.
+4
 
 
 ## Content Insights
 
-Enter here
+A daily stand up is a crucial teamwork tool to monitor and indicate the progress of a self-organised team project - it is best done whilst actually physically standing and usually lasts approx 5-10 minutes (no more than 15 minutes). If anyone is virtually joining, having them turn on their camera is highly recommended. 
 
-The first few sections can be brief, but the last two sections require you to reflect, think and write clearly what your insights were. Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks.
+It is a way to keep track of what tasks team members worked on in the previous day, are working on today and any issues that they are having. Having stand up meetings alongside using a project management tool such as trello helps to visualise the tasks and processes that are being discussed and can also draw attention to details such a due dates and completion rates. 
 
-Let's be real. Sometimes you don't get any real "insights". Don't make up stuff (lies) to make it look like you've completed the work. Do you think that's what your company will want?
 
 ## Career/Employability/Learning Insights
 
-Enter here
-
-Delete this link once complete - https://github.com/CP3402/subject/wiki/Learning-Journals
+Learning the teamwork skills involved in project management such as daily stands up will be essential for my anticipated future career and I envision that they will be a tool used often. Learning how to communicate effectively but also within a set limit time is a skill that I can improve as being clear and concise, and selecting the appropriate material to share, can sometimes be harder than it appears when completing a large project. Learning how to use and incorporate the project management tool Trello within the assignment will provide experience in project management planning and keeping track of my own tasks, whilst also keeping other team members accountable for theirs. Being able to practice and use these each week means that I will be more confident (and employable) when I applying for project management roles. 
