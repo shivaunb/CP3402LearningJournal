@@ -2,29 +2,24 @@
 
 ## Learning Activities & Resources
 
-Enter here
+1. Watched LearnJCU video
+2. Watched LinkedIn Learning Videos
+   * https://www.linkedin.com/learning/agile-at-work-driving-productive-agile-meetings/having-daily-stand-up-meetings-2?u=2223545
+   * https://www.linkedin.com/learning/learning-php-2/welcome?u=2223545
+   * https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=2223545
 
-This is a "learning journal" not just a record of all the things you did in the subject. So, if you spent 3 hours fixing an error or designing a site, you don't put that here. But if while fixing the error, you decided to learn more about the issue through training, then that goes in your learning journal.
-
-The "Learning Activities" section is not a general catch-all for things you did, it is only for recording explicit learning activities. Things like doing the prac, solving a problem, making a site... are NOT to go here. Watching a learning course, doing a tutorial, getting expert advice, going to a seminar... are all activities with the explicit purpose of learning; these go here.
+3. https://uk.indeed.com/career-advice/career-development/how-to-use-php-storm
 
 ## Estimated Hours
 
-Enter here
-
-Your "Estimated Hours" section should be a simple, honest estimate of the number of hours you spent LEARNING. You don't need to explain in prose, just provide a time.
-
+4.5
 
 ## Content Insights
 
-Enter here
+PHP stands for PHP Hypertext Preprocessor, and is a versatile scripting language that can be used for a variety of tasks, including email and process online forms and upload files from a webpage etc. Usually PHP is used with MySQL databases and the filename extension that is used is .php for all webpages within the site, even if they don't contain PHP code. 
 
-The first few sections can be brief, but the last two sections require you to reflect, think and write clearly what your insights were. Use complete sentences and record your insights so that you will understand them when you read them again in a few weeks.
-
-Let's be real. Sometimes you don't get any real "insights". Don't make up stuff (lies) to make it look like you've completed the work. Do you think that's what your company will want?
+The PHP files works alongside the css file and it is important to have the server root folders set up appropriately so that PHP script can be run and viewed in a browser. 
 
 ## Career/Employability/Learning Insights
 
-Enter here
-
-Delete this link once complete - https://github.com/CP3402/subject/wiki/Learning-Journals
+From the research I completed, I learned that proficiency in PHP Storm is a highly sought after skill by lots of IT companies. It provides experience in a new language and also the skills that come along with languages such as problem solving, debugging and learning how to read and interpret code. I am not sure if this is a skill that I will require in the future within my career, however having experience in this IDE may help me to obtain positions and will increase my employability. 
